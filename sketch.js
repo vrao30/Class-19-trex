@@ -70,7 +70,7 @@ restart.scale = 0.5;
 }
 
 function draw() {
-  background(180);
+  background("blue");
   
   text("Score: "+ count, 500,50);
   
